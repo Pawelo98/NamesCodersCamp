@@ -1,2 +1,2 @@
 
-List of participants of autumn edition of Coders Camp mentored by Paula.
+List of participants mentored by Paula of autumn edition of Coders Camp.
